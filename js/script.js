@@ -11,7 +11,7 @@ menuIcon.onclick = () => {
 
     openPdfLink.addEventListener('click', function(e) {
         e.preventDefault();
-        window.open('./resume/Lance%20Chinese%20Resume.pdf', '_blank');
+        window.open('./resume/Lance Resume.pdf', '_blank');
     });
 /*========== scroll sections active link ==========*/
 let sections = document.querySelectorAll('section');
